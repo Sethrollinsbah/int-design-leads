@@ -69,10 +69,10 @@
 		background: '/couple.jpg',
 		content: [
 			[
-				'Conozca COBRA',
-				'COBRA permite a las personas que participan en un plan de salud grupal de su empleador continuar pagando por ese plan cuando de otro modo terminaría.',
-				'Learn About COBRA',
-				'COBRA permits individuals who participate in an employer’s group health plan, to continue paying for that plan with no employer discount to retain their coverage when it would otherwise end.'
+				'Conozca',
+				'Permite a las personas que participan en un plan de salud grupal de su empleador continuar pagando por ese plan cuando de otro modo terminaría.',
+				'Learn About',
+				' permits individuals who participate in an employer’s group health plan, to continue paying for that plan with no employer discount to retain their coverage when it would otherwise end.'
 			],
 			[
 				'Planes Alternativos Asequibles',
@@ -165,8 +165,8 @@
 					>{data.lang === 'es' ? 'Mejor calificado en Missouri' : 'Top Rated in Missouri'}</span
 				>
 				<slot name="Title">
-					<span class:hidden={data.lang !== 'es'}>Alternativa<br />a Cobra asequible</span>
-					<span class:hidden={data.lang === 'es'}>Affordable<br />Cobra Alternative</span>
+					<span class:hidden={data.lang !== 'es'}>Alternativa<br />a burial asequible</span>
+					<span class:hidden={data.lang === 'es'}>Affordable<br />burial Alternative</span>
 				</slot>
 			</p>
 			<p
@@ -542,7 +542,7 @@
 		<div class="z-10 opacity-100 transition-all duration-300 group-hover:opacity-0">
 			<!-- <a -->
 			<!-- 	class="mb-2 rounded-md bg-gray-100 px-2 py-1 text-green-800 ring-1 ring-green-200" -->
-			<!-- 	href="mailto:info@sethrollins.dev?subject=Inquiry%20About%20COBRA%20Alternatives&body=Hello,%0A%0AI'm%20interested%20in%20learning%20more%20about%20your%20services.%20Could%20you%20please%20provide%20more%20information?%0A%0AThank%20you!" -->
+			<!-- 	href="mailto:info@sethrollins.dev?subject=Inquiry%20About%20Burial%20Alternatives&body=Hello,%0A%0AI'm%20interested%20in%20learning%20more%20about%20your%20services.%20Could%20you%20please%20provide%20more%20information?%0A%0AThank%20you!" -->
 			<!-- 	>Email us</a -->
 			<!-- > -->
 			<p class="mt-auto text-xs text-green-100">
